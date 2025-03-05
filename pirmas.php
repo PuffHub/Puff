@@ -3,6 +3,8 @@
 <body>
 
 <?php  
+
+\\test
 $i = 1;
 
 while ($i < 6) {
